@@ -1,0 +1,1 @@
+application qui affiche un mot aléatoirement à partir du fichier json fourni
