@@ -133,7 +133,7 @@
   },
   {
     "mot": "gel",
-    "definition": "Formation de glace due au froid"
+    "definition": "Froid qui fige l'eau et brode la nature de dentelle blanche"
   },
   {
     "mot": "verglas",
@@ -161,7 +161,7 @@
   },
   {
     "mot": "nuage",
-    "definition": "Amas de vapeur d'eau condensée dans le ciel"
+    "definition": "Masse de vapeur aux formes changeantes qui voyage dans le ciel"
   },
   {
     "mot": "zénith",
@@ -336,44 +336,44 @@
     "definition": "État de stabilité entre des forces opposées"
   },
   {
-    "mot": "ustensile",
-    "definition": "Objet utilisé pour une tâche pratique"
+    "mot": "lanterne",
+    "definition": "Boîte vitrée abritant une flamme que l'on porte dans la nuit"
   },
   {
     "mot": "tiroir",
-    "definition": "Compartiment coulissant d'un meuble"
+    "definition": "Compartiment d'un meuble où dorment lettres et souvenirs"
   },
   {
-    "mot": "étagère",
-    "definition": "Planche fixée pour ranger des objets"
+    "mot": "coffret",
+    "definition": "Petit coffre où l'on garde ce qui est précieux"
   },
   {
-    "mot": "placard",
-    "definition": "Petit espace de rangement fermé"
+    "mot": "alcôve",
+    "definition": "Renfoncement d'une chambre où se cache un lit, à l'abri des regards"
   },
   {
     "mot": "seuil",
-    "definition": "Bas d'une porte, entrée d'un lieu"
+    "definition": "Bas d'une porte ; limite où l'on passe d'un monde à un autre"
   },
   {
-    "mot": "paillasson",
-    "definition": "Tapis posé devant une porte pour s'essuyer les pieds"
+    "mot": "chandelle",
+    "definition": "Bougie dont la flamme tremble dans l'obscurité"
   },
   {
-    "mot": "robinet",
-    "definition": "Dispositif qui contrôle l'écoulement de l'eau"
+    "mot": "fontaine",
+    "definition": "Source d'eau vive qui jaillit et murmure sur une place"
   },
   {
     "mot": "verrou",
-    "definition": "Système qui bloque une porte"
+    "definition": "Pièce de métal qui ferme une porte et garde les secrets derrière elle"
   },
   {
     "mot": "poignée",
-    "definition": "Partie que l'on saisit pour ouvrir ou tenir un objet"
+    "definition": "Ce que la main saisit ; petite quantité qui tient au creux d'une main"
   },
   {
     "mot": "escalier",
-    "definition": "Suite de marches permettant de monter ou descendre"
+    "definition": "Suite de marches qui mène vers la lumière ou vers l'ombre"
   },
   {
     "mot": "grenier",
@@ -381,7 +381,7 @@
   },
   {
     "mot": "cave",
-    "definition": "Espace souterrain d'une maison"
+    "definition": "Espace souterrain, frais et sombre, où dorment les vins et les secrets"
   },
   {
     "mot": "véranda",
@@ -409,11 +409,11 @@
   },
   {
     "mot": "carrefour",
-    "definition": "Endroit où se croisent plusieurs routes"
+    "definition": "Lieu où les chemins se croisent et où il faut choisir"
   },
   {
-    "mot": "trottoir",
-    "definition": "Partie surélevée d'une rue réservée aux piétons"
+    "mot": "réverbère",
+    "definition": "Lampe de rue qui découpe un halo dans la nuit"
   },
   {
     "mot": "mélodie",
@@ -496,28 +496,28 @@
     "definition": "Dessin rapide et préparatoire"
   },
   {
-    "mot": "molécule",
-    "definition": "Plus petite unité d'une substance chimique"
+    "mot": "pollen",
+    "definition": "Fine poudre dorée que le vent et les abeilles portent de fleur en fleur"
   },
   {
     "mot": "cellule",
-    "definition": "Unité de base de tout être vivant"
+    "definition": "Petite chambre close du moine ou du prisonnier ; unité de base du vivant"
   },
   {
     "mot": "gravité",
-    "definition": "Force qui attire les corps entre eux"
+    "definition": "Force qui attire les corps entre eux ; sérieux d'un ton ou d'un regard"
   },
   {
     "mot": "magnétisme",
-    "definition": "Propriété physique d'attirer certains métaux"
+    "definition": "Force invisible qui attire le métal ; charme irrésistible d'un être"
   },
   {
-    "mot": "fréquence",
-    "definition": "Nombre de répétitions d'un phénomène par unité de temps"
+    "mot": "onde",
+    "definition": "Vibration qui se propage comme un frisson à la surface des choses"
   },
   {
     "mot": "catalyseur",
-    "definition": "Substance qui accélère une réaction chimique"
+    "definition": "Ce qui déclenche une transformation sans être changé soi-même"
   },
   {
     "mot": "symbiose",
@@ -549,15 +549,15 @@
   },
   {
     "mot": "orbite",
-    "definition": "Trajectoire d'un astre autour d'un autre"
+    "definition": "Course éternelle d'un astre autour d'un autre ; creux où loge l'œil"
   },
   {
     "mot": "atome",
-    "definition": "Plus petite particule d'un élément chimique"
+    "definition": "Grain infime de matière, le plus petit de tous"
   },
   {
     "mot": "électron",
-    "definition": "Particule chargée négativement d'un atome"
+    "definition": "Particule qui tourne sans fin autour du cœur de l'atome"
   },
   {
     "mot": "photon",
@@ -565,15 +565,15 @@
   },
   {
     "mot": "cristal",
-    "definition": "Solide aux formes géométriques régulières"
+    "definition": "Solide pur et transparent dont les facettes captent la lumière"
   },
   {
     "mot": "alliage",
-    "definition": "Mélange de plusieurs métaux"
+    "definition": "Fusion de plusieurs métaux ; union intime de choses différentes"
   },
   {
-    "mot": "composé",
-    "definition": "Substance formée de plusieurs éléments combinés"
+    "mot": "alambic",
+    "definition": "Appareil des alchimistes où les essences se distillent et se transforment"
   },
   {
     "mot": "hérisson",
@@ -724,8 +724,8 @@
     "definition": "Long voyage riche en péripéties"
   },
   {
-    "mot": "itinéraire",
-    "definition": "Chemin suivi pour aller d'un lieu à un autre"
+    "mot": "errance",
+    "definition": "Marche sans but où l'on se perd volontiers"
   },
   {
     "mot": "escale",
@@ -945,7 +945,7 @@
   },
   {
     "mot": "confiture",
-    "definition": "Préparation sucrée de fruits cuits"
+    "definition": "Fruits cuits au sucre, l'été gardé en bocal"
   },
   {
     "mot": "miel",
@@ -972,8 +972,8 @@
     "definition": "Petit fruit tropical à peau rugueuse et chair blanche"
   },
   {
-    "mot": "kiwi",
-    "definition": "Fruit à peau velue et chair verte acidulée"
+    "mot": "figue",
+    "definition": "Fruit tendre au cœur rouge et sucré, gorgé de soleil"
   },
   {
     "mot": "girofle",
@@ -1012,48 +1012,48 @@
     "definition": "Énergie et dynamisme de vie"
   },
   {
-    "mot": "robustesse",
-    "definition": "Solidité et résistance physique"
+    "mot": "ardeur",
+    "definition": "Chaleur vive qui brûle dans le corps ou dans le cœur"
   },
   {
     "mot": "veille",
-    "definition": "Jour qui précède un autre"
+    "definition": "Fait de rester éveillé la nuit ; jour qui précède un autre"
   },
   {
     "mot": "lendemain",
-    "definition": "Jour qui suit immédiatement un autre"
+    "definition": "Jour qui suit, chargé de promesses ou de regrets"
   },
   {
-    "mot": "quinzaine",
-    "definition": "Période d'environ quinze jours"
+    "mot": "minuit",
+    "definition": "Heure où un jour s'éteint et où l'autre naît dans le silence"
   },
   {
     "mot": "décennie",
-    "definition": "Période de dix ans"
+    "definition": "Dix années, le temps d'une jeunesse qui passe"
   },
   {
     "mot": "millénaire",
-    "definition": "Période de mille ans"
+    "definition": "Mille ans, le temps des ruines et des légendes"
   },
   {
     "mot": "éphéméride",
-    "definition": "Calendrier qui indique un événement pour chaque jour"
+    "definition": "Calendrier dont on arrache une page chaque jour"
   },
   {
-    "mot": "calendrier",
-    "definition": "Système de repérage des jours et des mois"
+    "mot": "sablier",
+    "definition": "Instrument où le temps s'écoule grain à grain"
   },
   {
     "mot": "échéance",
-    "definition": "Date à laquelle une chose doit se produire"
+    "definition": "Moment fixé où ce qui devait arriver arrive"
   },
   {
-    "mot": "délai",
-    "definition": "Temps accordé pour accomplir quelque chose"
+    "mot": "sursis",
+    "definition": "Temps de grâce accordé avant l'inévitable"
   },
   {
     "mot": "intervalle",
-    "definition": "Espace de temps entre deux moments"
+    "definition": "Espace suspendu entre deux instants, deux notes, deux êtres"
   },
   {
     "mot": "résonance",
@@ -1148,12 +1148,12 @@
     "definition": "Action d'éclat qui suscite l'admiration"
   },
   {
-    "mot": "compétition",
-    "definition": "Confrontation entre plusieurs concurrents"
+    "mot": "joute",
+    "definition": "Combat courtois, lance contre lance ; duel de mots ou d'esprit"
   },
   {
     "mot": "tournoi",
-    "definition": "Compétition organisée en plusieurs manches"
+    "definition": "Combat de chevaliers en armure sous les bannières"
   },
   {
     "mot": "échiquier",
@@ -1161,11 +1161,11 @@
   },
   {
     "mot": "pion",
-    "definition": "Pièce de moindre valeur dans un jeu"
+    "definition": "La plus humble pièce des échecs, qui peut pourtant devenir reine"
   },
   {
-    "mot": "stratégie",
-    "definition": "Ensemble de moyens organisés pour atteindre un but"
+    "mot": "labyrinthe",
+    "definition": "Dédale de chemins enchevêtrés où l'on se perd"
   },
   {
     "mot": "jalousie",
@@ -1292,8 +1292,8 @@
     "definition": "Personne qui conçoit les plans des bâtiments"
   },
   {
-    "mot": "ingénieur",
-    "definition": "Personne qui conçoit et réalise des ouvrages techniques"
+    "mot": "veilleur",
+    "definition": "Celui qui reste éveillé pour garder les autres pendant la nuit"
   },
   {
     "mot": "astronome",
@@ -1313,7 +1313,7 @@
   },
   {
     "mot": "archiviste",
-    "definition": "Personne qui conserve et classe des documents anciens"
+    "definition": "Gardien de la mémoire écrite, qui veille sur les papiers oubliés"
   },
   {
     "mot": "restaurateur",
@@ -1576,12 +1576,12 @@
     "definition": "Herbe aromatique à la saveur anisée"
   },
   {
-    "mot": "ciboulette",
-    "definition": "Herbe aromatique aux longues tiges fines"
+    "mot": "menthe",
+    "definition": "Herbe fraîche au parfum vif qui pique la langue"
   },
   {
-    "mot": "persil",
-    "definition": "Herbe aromatique très utilisée en cuisine"
+    "mot": "lavande",
+    "definition": "Plante aux épis mauves dont le parfum embaume l'été"
   },
   {
     "mot": "laurier",
